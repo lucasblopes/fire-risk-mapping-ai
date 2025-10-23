@@ -1,0 +1,15 @@
+Performance Metrics for Model: CNN
+Generated on: 2025-10-07 13:53:59
+==================================================
+
+Cross-Validation Results (5-fold Temporal Split)
+--------------------------------------------------
+  Mean AUC:      0.9354 ± 0.0088
+  Mean Accuracy: 0.8028 ± 0.0440
+  Mean F1-Score: 0.7787 ± 0.0623
+
+Final Evaluation on 2024 Test Set
+--------------------------------------------------
+  Test AUC:      0.9407
+  Test Accuracy: 0.8440
+  Test F1-Score: 0.8047

@@ -1,0 +1,15 @@
+Performance Metrics for Model: Simple-CNN
+Generated on: 2025-10-20 14:41:21
+==================================================
+
+Cross-Validation Results (5-fold Temporal Split)
+--------------------------------------------------
+  Mean AUC:      0.9263 ± 0.0139
+  Mean Accuracy: 0.7693 ± 0.0831
+  Mean F1-Score: 0.7436 ± 0.0630
+
+Final Evaluation on 2024 Test Set
+--------------------------------------------------
+  Test AUC:      0.9290
+  Test Accuracy: 0.8205
+  Test F1-Score: 0.7660

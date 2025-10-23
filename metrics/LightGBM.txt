@@ -1,0 +1,15 @@
+Performance Metrics for Model: LightGBM
+Generated on: 2025-10-07 13:54:02
+==================================================
+
+Cross-Validation Results (5-fold Temporal Split)
+--------------------------------------------------
+  Mean AUC:      0.9356 ± 0.0121
+  Mean Accuracy: 0.8027 ± 0.0328
+  Mean F1-Score: 0.7671 ± 0.0843
+
+Final Evaluation on 2024 Test Set
+--------------------------------------------------
+  Test AUC:      0.9422
+  Test Accuracy: 0.8610
+  Test F1-Score: 0.8349

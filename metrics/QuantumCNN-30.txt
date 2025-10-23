@@ -1,0 +1,9 @@
+Performance Metrics for Model: QuantumCNN-30
+Generated on: 2025-10-22 16:02:09
+==================================================
+
+Evaluation on 2024 Test Set
+--------------------------------------------------
+  Test AUC:      0.9457
+  Test Accuracy: 0.8531
+  Test F1-Score: 0.8167

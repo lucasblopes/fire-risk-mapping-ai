@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+rasterio
+matplotlib
+torch
+lightgbm
+pennylane
+pennylane-lightning
+tdqm

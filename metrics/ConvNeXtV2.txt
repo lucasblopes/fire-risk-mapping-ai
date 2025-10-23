@@ -1,0 +1,5 @@
+Model: ConvNeXtV2
+Generated: 2025-10-15 02:18:09.346455
+Accuracy: 0.7963
+AUC: 0.9197
+F1: 0.7170

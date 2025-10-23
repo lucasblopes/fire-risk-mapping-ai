@@ -1,0 +1,24 @@
+Performance Metrics for Model: CNN-LightGBM-WEIGHTED
+Method: Calibrated base models + Optimized weighted averaging
+CNN Weight: 0.148, LightGBM Weight: 0.852
+Generated on: 2025-10-22 18:28:06
+==================================================
+
+Cross-Validation Results (5-fold Temporal Split)
+--------------------------------------------------
+  Mean AUC:      0.9396 ± 0.0114
+  Mean Accuracy: 0.7512 ± 0.0744
+  Mean F1-Score: 0.6963 ± 0.1009
+
+Final Evaluation on 2024 Test Set
+--------------------------------------------------
+  Test AUC:      0.9474
+  Test Accuracy: 0.8505
+  Test F1-Score: 0.8105
+
+Prediction Statistics
+--------------------------------------------------
+  Min:    0.0053
+  Max:    0.9913
+  Mean:   0.3494
+  Median: 0.0263

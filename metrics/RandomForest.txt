@@ -1,0 +1,15 @@
+Performance Metrics for Model: RandomForest
+Generated on: 2025-10-07 12:09:07
+==================================================
+
+Cross-Validation Results (5-fold Temporal Split)
+--------------------------------------------------
+  Mean AUC:      0.9238 ± 0.0176
+  Mean Accuracy: 0.7850 ± 0.0316
+  Mean F1-Score: 0.7360 ± 0.1032
+
+Final Evaluation on 2024 Test Set
+--------------------------------------------------
+  Test AUC:      0.9271
+  Test Accuracy: 0.8436
+  Test F1-Score: 0.8221

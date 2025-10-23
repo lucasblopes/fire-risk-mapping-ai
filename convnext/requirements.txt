@@ -1,0 +1,18 @@
+# Core scientific and data processing
+numpy
+pandas
+
+# Deep learning (PyTorch + vision + pretrained models)
+torch
+torchvision
+timm
+
+# Geospatial and raster operations
+rasterio
+
+# Visualization
+matplotlib
+
+# Progress bars
+tqdm
+

@@ -1,0 +1,15 @@
+Performance Metrics for Model: XGBoost
+Generated on: 2025-10-07 13:55:06
+==================================================
+
+Cross-Validation Results (5-fold Temporal Split)
+--------------------------------------------------
+  Mean AUC:      0.9354 ± 0.0126
+  Mean Accuracy: 0.7738 ± 0.0542
+  Mean F1-Score: 0.7240 ± 0.1031
+
+Final Evaluation on 2024 Test Set
+--------------------------------------------------
+  Test AUC:      0.9438
+  Test Accuracy: 0.8515
+  Test F1-Score: 0.8162

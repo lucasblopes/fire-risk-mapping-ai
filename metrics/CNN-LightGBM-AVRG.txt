@@ -1,0 +1,15 @@
+Performance Metrics for Model: CNN-LightGBM-AVRG
+Generated on: 2025-10-21 14:46:04
+==================================================
+
+Cross-Validation Results (5-fold Temporal Split)
+--------------------------------------------------
+  Mean AUC:      0.9265 ± 0.0141
+  Mean Accuracy: 0.7651 ± 0.0877
+  Mean F1-Score: 0.7461 ± 0.0361
+
+Final Evaluation on 2024 Test Set
+--------------------------------------------------
+  Test AUC:      0.9488
+  Test Accuracy: 0.8473
+  Test F1-Score: 0.8052
