@@ -1,0 +1,15 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/base:debian",
+  "runArgs": [
+    "--device=/dev/net/tun",
+    "--hostname",
+    "container"
+  ],
+  "features": {
+    "ghcr.io/devcontainers/features/nix:1": {},
+    "ghcr.io/tailscale/codespace/tailscale": {},
+  },
+  "mounts": [
+    "source=/var/run/docker.sock,target=/var/run/docker.sock,type=bind"
+  ]
+}
