@@ -1,0 +1,11 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/base:debian",
+  "runArgs": ["--device=/dev/net/tun", "--hostname", "container"],
+  "features": {
+    "ghcr.io/devcontainers/features/nix:1": {},
+    "ghcr.io/tailscale/codespace/tailscale": {},
+    "ghcr.io/devcontainers/features/docker-in-docker:2": {
+      "moby": "false"
+    }
+  }
+}
